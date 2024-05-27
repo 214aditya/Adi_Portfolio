@@ -1,2 +1,2 @@
-# Adi_Portfolio
-This is my portfolio with minimal aesthetes 
+# Portfolio
+This is my portfolio website : https://214aditya.github.io/Adi_Portfolio/
